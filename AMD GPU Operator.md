@@ -2,3 +2,4 @@
 - AMD ROCm is open source
 - In C, C++, Python, Fortran, Julia
 - Refer to https://en.wikipedia.org/wiki/ROCm
+- GPU spported, https://rocm.docs.amd.com/projects/install-on-linux/en/latest/reference/system-requirements.html
